@@ -10,7 +10,7 @@ This repository is the official code for the ICCV-23 paper [_Augmenting and Alig
 
 ### Running
 
-- Code will be updated soon. The generation of the few-shot sets are available in the ```/data``` folder.
+- Code will be updated soon. The generation of the few-shot sets are available in the ```/dataset``` folder.
 
 <!-- ### Running:
 
