@@ -1,6 +1,6 @@
 ### Overview
 
-This code is for Action Recognition (Domain adaptation), specifically for Black-box Video Unsupervised Domain Adaptation and the proposed SSA<sup>2</sup>lign.
+This repository is the official code for the ICCV-23 paper [_Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation_](https://arxiv.org/abs/2303.10451), with the proposed SSA<sup>2</sup>lign method. Read more in our project page [Here](https://xuyu0010.github.io/fsvda.html)
 
 ### Requirements (Recommended)
 - Python 3.9
@@ -8,7 +8,11 @@ This code is for Action Recognition (Domain adaptation), specifically for Black-
 - Numpy
 - opencv-python
 
-### Running:
+### Running
+
+- Code will be updated soon. The generation of the few-shot sets are available in the ```/data``` folder.
+
+<!-- ### Running:
 
 The default benchmark is the Daily-DA benchmark, the default cross-domain task is HMDB51&rarr;ARID (H&rarr;A). To use other benchmarks you may choose from the following options for the ```--dataset``` option: (DATASET_OPTION)
 ```
@@ -24,4 +28,9 @@ The "SOURCE_DATASET_NAME" and "TARGET_DATASET_NAME" defines domains of the cross
 - Step 3: To evaluate the trained model, and run the following command:
 ```python
 python evaluate_multisnippet.py --dataset DATASET_OPTION --target-dataset TARGET_DATASET_NAME
-```
+``` -->
+
+
+### Contact
+
+For more information please do not hesitate to raise an issue or to contact xuyu0010 at e.ntu.edu.sg or yang0478 at e.ntu.edu.sg.
