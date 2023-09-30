@@ -1,6 +1,6 @@
 ### Overview
 
-This repository is the official code for the ICCV-23 paper [_Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation_](https://arxiv.org/abs/2303.10451), with the proposed SSA<sup>2</sup>lign method. Read more in our project page [Here](https://xuyu0010.github.io/fsvda.html)
+This repository is the official code for the ICCV-23 paper [_Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation_](https://arxiv.org/abs/2303.10451), with the proposed SSA<sup>2</sup>lign method. Read more in our project page [Here](https://xuyu0010.github.io/fsvda.html).
 
 ### Requirements (Recommended)
 - Python 3.9
